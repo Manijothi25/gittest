@@ -1,4 +1,10 @@
 first line
 second line
+<<<<<<< HEAD
 3rd line
 4th line
+=======
+third line
+4th line
+
+>>>>>>> master1
